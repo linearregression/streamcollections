@@ -1,4 +1,4 @@
-Stream Collections
+Stream Collections  [![Build Status](https://travis-ci.org/Nitro/streamcollections.svg)](https://travis-ci.org/Nitro/streamcollections)
 ==================
 
 This is an abstraction for streams as Scala collections that was developed during our workat Nitro on traversing our production S3 bucket.
