@@ -7,7 +7,7 @@ The iterator is currently written on top of Play Iteratees, but can be generaliz
 
 Usage
 -----
-See [PlayStreamIteratorSpec](https://www.github.com/nitro/blob/master/src/test/scala/PlayStreamIteratorSpec.scala) for examples.
+See [PlayStreamIteratorSpec](src/test/scala/PlayStreamIteratorSpec.scala) for examples.
 
 
 Feature Suggestions, Bugs, Questions?
