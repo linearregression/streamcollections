@@ -5,6 +5,10 @@ This is an abstraction for streams as Scala collections that was developed durin
 
 The iterator is currently written on top of Play Iteratees, but can be generalized to any stream framework that works with Scala futures. Our immediate plans are to support Akka streams.
 
+##### Presentations
+
+This project was originally presented at [ScalaDays SF 2015](http://www.slideshare.net/GregSilin/stream-collections-scala-days).
+
 Usage
 -----
 See [PlayStreamIteratorSpec](src/test/scala/PlayStreamIteratorSpec.scala) for examples.
